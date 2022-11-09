@@ -17,7 +17,7 @@ public class Flying extends Bird {
     }
 
     @Override
-    public void go() {
+    public void go( ) {
 
     }
 

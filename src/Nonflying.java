@@ -15,7 +15,7 @@ public class Nonflying extends Bird {
     }
 
     @Override
-    public void go() {
+    public void go( ) {
 
     }
 

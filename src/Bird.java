@@ -18,7 +18,7 @@ public abstract class Bird extends Animal {
     }
 
     @Override
-    public void go() {
+    public void go( ) {
 
 
     }

@@ -17,7 +17,7 @@ public class Predator extends Mammal {
 
     @Override
     public void go() {
-        System.out.println("земля");
+        System.out.println("земля ");
 
     }
 
