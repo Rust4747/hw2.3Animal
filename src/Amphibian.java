@@ -8,7 +8,7 @@ public class Amphibian extends Animal {
         this.enviroment = enviroment;
     }
     public void hunt(){
-        System.out.println("насекомые");
+        System.out.println("насекомые ");
     }
 
     @Override

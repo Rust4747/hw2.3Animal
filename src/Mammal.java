@@ -10,7 +10,7 @@ public abstract class Mammal extends Animal {
         this.movementSpeed = movementSpeed;
     }
     public void walk() {
-        System.out.println(" земля ");
+        System.out.println(" земля");
 
     }
 

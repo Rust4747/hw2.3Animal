@@ -17,7 +17,7 @@ public class Herbivore extends Mammal{
 
     @Override
     public void go() {
-        System.out.println("быстро бегают");
+        System.out.println("быстро бегают ");
 
     }
 
